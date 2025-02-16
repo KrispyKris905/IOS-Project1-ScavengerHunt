@@ -2,7 +2,7 @@
 
 Submitted by: Cristobal Elizarraraz
 
-Scavenger is an app that displays 3 tasks which to complete must 
+Scavenger Hunt is an app that displays 3 tasks which the user can complete by attaching a picture of their completed task.
 
 Time spent: 4 hours spent in total
 
@@ -27,7 +27,7 @@ Just had a small challenge when trying to replace a table view controller with j
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Cristobal Elizarraraz]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
